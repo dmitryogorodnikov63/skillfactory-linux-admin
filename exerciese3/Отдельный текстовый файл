@@ -1,0 +1,1 @@
+0 8 * * * logwatch --detail Med --mailto root --service custom --range today
